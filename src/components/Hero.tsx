@@ -60,7 +60,7 @@ export function Hero() {
             alt="Mohamed Gebril"
             loading="eager"
             fetchPriority="high"
-            className="w-full h-full object-cover object-top opacity-70 mix-blend-lighten pointer-events-auto"
+            className="w-full h-full object-cover object-top opacity-80 mix-blend-lighten pointer-events-auto"
           />
         </div>
       </motion.div>
